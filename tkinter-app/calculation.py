@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
 
 def process_inputs(inputs):
-	# Process the inputs
+	 # Process the inputs
 	result = 1
 	
 	
